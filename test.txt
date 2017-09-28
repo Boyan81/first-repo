@@ -7,6 +7,3 @@ Why did they pick SoftUni?- Teaching is at a very good level.
 Hello again!!!
 New conflict.
 
-=======
-Why did they pick SoftUni?- Teaching is at a very good level
->>>>>>> cb70a8d545a9a5e849c69d1b1ec6a572c28dce5b
