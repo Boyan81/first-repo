@@ -1,7 +1,6 @@
 ﻿What is their name?- Boyan Mitov
 Where are they from?- Kustendil
 What hobbies/pastimes do they enjoy?- To create automation projects.
-<<<<<<< HEAD
 Why did they pick SoftUni?- Teaching is at a very good level.
 
 
