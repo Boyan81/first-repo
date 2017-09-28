@@ -5,8 +5,3 @@ Why did they pick SoftUni?- Teaching is at a very good level.
 
 
 Hello again!!!
-<<<<<<< HEAD
-New conflict.
-
-=======
->>>>>>> 9021d199f5b726746c30e34cf2ac0d1ade2f44f9
